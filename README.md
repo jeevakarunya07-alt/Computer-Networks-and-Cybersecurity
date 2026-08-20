@@ -9,20 +9,15 @@ The main idea is to combine processing, memory, sensor interfaces, communication
 
 **Problem Statement:**
 
-Manual traffic monitoring needs continuous human observation and may not provide information quickly.
-
-Problem:
-How can an SoC-based system be used to detect and monitor traffic conditions automatically?
+Traffic conditions change quickly, and manual monitoring is time-consuming. A system is needed to automatically detect, process, and report traffic conditions efficiently.
 
 **Objectives:**
 
-Detect vehicles using sensors.
-Collect traffic information.
-Process the sensor readings.
-Identify the traffic level.
-Send information to a monitoring centre.
-Give an alert when heavy traffic is detected.
-Consider basic security for the system.
+- To collect traffic data continuously.
+- To process the collected data using the SoC.
+- To identify traffic as low, medium, or high.
+- To send traffic information to a monitoring centre.
+- To provide alerts during heavy traffic.
 
 **Proposed SoC Architecture:**
 
