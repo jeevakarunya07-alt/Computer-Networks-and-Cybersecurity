@@ -137,8 +137,7 @@ The proposed system can later be implemented using traffic sensors, a processor,
 
 **Expected Outcome:**
 
-The proposed architecture is expected to provide a simple way to collect, process and communicate traffic information.
-It can be used as a basic model for developing a more advanced smart-city traffic monitoring system.
+The proposed system is expected to monitor traffic conditions automatically, process sensor data using the SoC, identify traffic levels, and send timely information to the monitoring centre. It can also provide alerts when heavy traffic is detected.
 
 **Personal Reflection:**
 
